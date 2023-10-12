@@ -1,3 +1,4 @@
+#####This is the first sheel script to create frontend
 echo "######### Starting to execute the Frontend Application############"
 dnf install nginx -y
 systemctl enable nginx
